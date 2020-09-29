@@ -1,0 +1,12 @@
+com/mtt/model/Projects.class
+com/mtt/model/ProjectAdmins.class
+com/mtt/model/UserProfiles.class
+com/mtt/MttApplication.class
+com/mtt/model/BaseModel.class
+com/mtt/model/ProjectAttachments.class
+com/mtt/model/ProjectLanguages.class
+com/mtt/dao/UserProfileDao.class
+com/mtt/model/Roles.class
+com/mtt/model/Users.class
+com/mtt/model/Organizations.class
+com/mtt/config/KeycloakSecurityConfig.class
